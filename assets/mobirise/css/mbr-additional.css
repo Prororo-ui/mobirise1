@@ -1069,3 +1069,28 @@ section.lazy-placeholder:after {
     justify-content: center;
   }
 }
+.cid-rO8uwQAVtx {
+  background-color: #55b4d4;
+}
+.cid-rO8uwQAVtx .form-control,
+.cid-rO8uwQAVtx .form-control:focus {
+  background: #ffffff;
+  border: 1px solid #55b4d4;
+}
+.cid-rO8uwQAVtx .form-container {
+  transition: all .2s;
+  border: 1px solid #55b4d4;
+  padding: 1rem;
+}
+.cid-rO8uwQAVtx textarea.form-control {
+  min-height: 188px;
+}
+.cid-rO8uwQAVtx .input-group-btn {
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-rO8uwQAVtx .content-container {
+    padding-right: 5rem;
+  }
+}
